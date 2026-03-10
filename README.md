@@ -108,3 +108,8 @@ machine-learning
 ai-architecture
 autonomous-agents
 ai-research
+See also:
+- v.4.2 Skeletons: https://github.com/aruintelligence/divine-whisper-v4.2-agentic-ai-orchestrator
+- v.3 Bridge: https://github.com/aruintelligence/divine-whisper-v3-bridge-orchestrator
+- Regime Simulator: https://github.com/aruintelligence/divine-whisper-regime-simulator
+- v.2 Runtime: https://github.com/aruintelligence/divine-whisper-v2-polished-gold
